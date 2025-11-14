@@ -5,7 +5,7 @@
 
 I am a Bachelor of Computer Science graduate with a strong interest in **Network Infrastructure** and **Cyber ​​Security**.
 
-![banner](img/banner.png)
+![img/banner.png](https://github.com/Cristhian4456/Cristhian4456/blob/main/img/banner.png)
 
 ---
 
